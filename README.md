@@ -87,11 +87,14 @@ Data files:<br>
 See the Retirement Titles [file](https://github.com/alexdallman1029/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv), the Unique Titles [file](https://github.com/alexdallman1029/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv), the Retiring Titles [file](https://github.com/alexdallman1029/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv), and the Mentorship Eligibility [file](https://github.com/alexdallman1029/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv). 
 
 # Results
+There were some interesting results after the analysis was complete, including the following: 
 
-* Point 1:
-* Point 2:
-* Point 3:
-* Point 4:
+* Most employees who are retiring have senior-level positions. This means that onboarding needs to happen at lower- and higher-level positions.  
+* Most employees retiring are senior engineers and senior staff, at 25,916 and 24,926, respectively.
+* Only two managers are eligible for upcoming retirement, so not much effort needs to go into finding and training new managers. 
+* The department with the largest number of eligible retirees also have the most capacity to mentor upcoming and new employees.
+
+
 # Summary
-How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+1. How many roles will need to be filled as the "silver tsunami" begins to make an impact? Many employees will be eligible for either mentorship or retirement within the next ten years. As automation increases, fewer lower-level positions will need to be filled as jobs become more streamlined, which will play a factor into getting the correct number of people ready to take on senior-level positions. It is important to start the mentorship program now, so that employees will be ready to fill those roles in house, and if that cannot be done, it will take hiring on from outside of the company. One suggestion would be to incentivize tapering of retirements by adding bonuses for those who stay to mentor the next generation of employees. 
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? Yes, the number of employees retiring in each department correspond with the number of employees needing training. You could also have mentors from one department mentor those in different departments if an inbalance occurred, especially when the jobs have similarities. 
