@@ -1,12 +1,14 @@
 # Overview of Project
 Many current employees at Pewlett Hackard are about to reach retirement age. I was asked to create an analysis to determine the number of retiring employees per title at Pewlett Hackard and identify the employees eligible to participate in a mentorship program based on their age.
 
-Programs used: PgAdmin 4, PostGreSQL 14, and Visual Studio Code 1.50.0
-Data files: ![]()
-            ![]()
-            ![]()
-            ![]()
-            ![]()
+Programs used: PgAdmin 4, PostGreSQL 14, and Visual Studio Code 1.50.0<br><br>
+Data files:<br>
+* [Departments](https://github.com/alexdallman1029/Pewlett-Hackard-Analysis/blob/main/Data/departments.csv)<br>
+* [Employees](https://github.com/alexdallman1029/Pewlett-Hackard-Analysis/blob/main/Data/employees.csv)<br>
+* [Department Managers](https://github.com/alexdallman1029/Pewlett-Hackard-Analysis/blob/main/Data/dept_manager.csv)<br>
+* [Department Employees](https://github.com/alexdallman1029/Pewlett-Hackard-Analysis/blob/main/Data/dept_emp.csv)<br>
+* [Salaries](https://github.com/alexdallman1029/Pewlett-Hackard-Analysis/blob/main/Data/salaries.csv)<br>
+* [Titles](https://github.com/alexdallman1029/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv)<br>
   
 
  # Methods
@@ -82,6 +84,9 @@ Data files: ![]()
 
   select * from mentorship_eligibility;
  ```
+See the Retirement Titles [file](https://github.com/alexdallman1029/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv), the Unique Titles [file](https://github.com/alexdallman1029/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv), the Retiring Titles [file](https://github.com/alexdallman1029/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv), and the Mentorship Eligibility [file](https://github.com/alexdallman1029/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv). 
+
+# Results
 
 * Point 1:
 * Point 2:
